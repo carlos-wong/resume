@@ -1,19 +1,31 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# 软件研发总监
+- company: 乐聚(深圳)机器人技术有限公司
+  position: 软件研发总监
+  duration: 2016年10月 &mdash; Present
+  summary: 领导软件除机器人步态算法外的软件项目设计，研发。对公司软件基础架构负责。	<ul class="resume-item-list"><li>基于 Google Blockly 的 Aelos1s 机器人研发</li><li>基于 Google Blockly 的 Pando 机器人研发</li><li>软件研发部</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: 西禾智能科技
+  position: 技术总监
+  duration:  2015年7月 &mdash; 2017年9月
+  summary: 负责软硬件设计研发 <ul class="resume-item-list"><li>基于机器学习进行尿湿预警的婴儿尿湿报警器</li></ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: 明谷技术咨询有限公司
+  position: 技术顾问
+  duration:   2013年12月  &mdash; 2015年7月
+  summary: 针对不同客户的需求进行方案定制，架构设计，以及核心模块的协助研发
+
+- company: 深圳悠易阅科技有限公司
+  position: 软件研发经理
+  duration:   2010年10月  &mdash; 2013年12月
+
+- company: 深圳君正时代科技有限公司
+  position: 高级驱动工程师
+  duration:   2008年10月  &mdash; 2010年10月
+
+- company: 佛山合成电器有限公司
+  position: 软件工程师
+  duration:   2007年9月  &mdash; 2008年10月

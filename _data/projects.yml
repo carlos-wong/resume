@@ -2,15 +2,91 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: 乐聚 Blockly 桌面教育版软件
+  role: 项目软件部分负责人
+  duration: 2018 &mdash; 至今
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 这是一款基于 Google Blockly 二次定制研发的桌面软件。支持乐聚教育全系列机器人。通过积木组合形式的编程功能帮助初学者及入门学者快速的掌握机器人编程的知识和技能。通过实现核心的编译器及 DSL 批处理器达到简洁快速的实现软件所设定的目的。
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: 乐聚 Pando 机器人
+  role: 项目软件部分负责人
+  duration: 2018 &mdash; 至今
+  url: "http://www.lejurobot.com/pando/"
+  description: 是一款更注重与人情感互动的机器人,也是乐聚公司第一款具有表情交互功能的产品；可拼装设计加上多达18个自由度和全新的步态算法，整体可玩性和趣味性进一步提升；同时还兼具基于Blocky二次开发的机器人编程学习功能。
+
+- project: 乐聚 Aelos1s 机器人
+  role: 项目软件部分负责人
+  duration: 2017 &mdash; 至今
+  url: "http://www.lejurobot.com/aelos-1s/"
+  description: AELOS 1S机器人从编程软件上做了全球通用的STEAM编程软件开发，与PC端可视化编程、手机端简易化编程相呼应，适用于全球不同年龄层青少年，让使用者可以根据自己的认知水平和喜好进行自我选择。除此之外，增加语音互动、App编程社区、手柄控制等功能。
+
+
+- project: 乐聚 Aelos 机器人
+  role: 项目软件部分负责人
+  duration: 2016 &mdash; 至今
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Aelos机器人是由哈尔滨工业大学的一批博士生硕士生历时五年精心淬炼的一款机器人，是目前国内唯一一款可实现双足快走人形机器人，其运动控制能力处于国际领先水平，同时也是国内第一款既能实现双足快走又能实现智能语音交互的机器人。Aelos机器人在舵机,结构，外观等核心组件和技术上均获得了专利，问世至今斩获了包括世界机器人足球锦标赛中国赛区冠军，中俄工科联盟机器人大赛冠军，日内瓦国际发明金奖，韩国国际顶点设计大赛铜奖等十几项重量级荣誉。
+
+- project: 乐聚机器人 简化版桌面软件
+  role: 项目软件部分负责人
+  duration: 2016 &mdash; 至今
+  # url: "#"
+  description: 简化版桌面软件是一款用户可以快速编辑，调整机器人动作舞蹈的桌面软件。通过这个软件拥有机器人运动基础知识的用户可以快速，便捷的制作机器人动作程序。
+
+- project: 婴儿尿湿报警器
+  role: 项目负责人
+  duration: 2015 &mdash; 2016
+  # url: "#"
+  description: 基于机器学习模型对婴儿尿不湿状态侦测的设备 <ul class="resume-item-list"><li>精准报警</li><li>防丢警报</li><li>智慧家庭云</li><li>健康数据全记录</li></ul>
+
+- project: 演唱会手摇广告牌
+  role: 项目负责人
+  duration: 2014 &mdash; 2015
+  # url: "#"
+  description: 基于音频数据传输模块的手持数字广告产品。该产品轻便，高效，并且支持实时更新数据。可以让用户于公众场合快速的展示 AR 类型的数字信息。
+
+- project: 基于 Libtro 的开源设备
+  role: 项目负责人
+  duration: 2014 &mdash; 2015
+  # url: "#"
+  description: 基于 Libtro 实现的开源游戏模拟器设备。支持局域网用于联机对战，全模拟器时之沙功能。
+
+- project: 分布式超市应急灯系统
+  role: 项目负责人
+  duration: 2013 &mdash; 2015
+  # url: "#"
+  description: 结合备用电源及主电源自动检测逻辑，当超市突然停电时使用超市的原有照明系统作为紧急逃生照明系统。支持路径提示，以间隔及防线闪烁来提示用户逃生路径。
+
+- project: 分布式蓝牙儿童防丢系统
+  role: 项目负责人
+  duration: 2013 &mdash; 2015
+  # url: "#"
+  description: 结合蓝牙设备及手机软件同服务器后台组成的儿童防丢系统。通过安装软件的手机自动上报扫描到的设备，以达到准确定位儿童位置的目的。支持身份认证，寻人发布，路径显示，历史活动情况记录。
+
+- project: H430 多媒体娱乐设备
+  role: 项目负责人
+  duration: 2010 &mdash; 2013
+  # url: "#"
+  description: 基于君正 Jz4770 的手持多媒体娱乐设备。可以播放视频，电子书，以及运行多个经典模拟器
+
+- project: A380 多媒体娱乐设备
+  role: 项目负责人
+  duration: 2010 &mdash; 2013
+  # url: "#"
+  description: 基于君正 Jz4760 的手持多媒体娱乐设备。可以播放视频，电子书，以及运行多个经典模拟器
+
+- project: NDSL 视频扩展卡
+  role: 项目负责人
+  duration: 2010 &mdash; 2013
+  # url: "#"
+  description: 基于君正 Jz4750 开发的对任天堂 NDSL 游戏机进行视频解码播放的扩展卡。
+
+- project: 翻盖游戏机
+  role: 项目负责人
+  duration: 2010 &mdash; 2013
+  # url: "#"
+  description: 基于君正 Jz4755 及 Jz4740 的手持多媒体娱乐设备。可以播放视频，电子书，以及运行多个经典模拟器
+
+
+
