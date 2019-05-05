@@ -2,6 +2,24 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: 基于 Gitlab 的定制系统
+  role: 项目负责人
+  duration: 2017 &mdash; 至今
+  url: https://github.com/carlos-wong/gitlab-ce-carlos
+  description: 基于开源软件 gitlab 定制的系统软件，提供更严格的权限检查。
+
+- project: 基于 cerebro 的变量命名辅助插件
+  role: 项目负责人
+  duration: 2018 &mdash; 至今
+  url: https://github.com/carlos-wong/cerebro-codelf
+  description: 基于 cerebro 插件系统开发的帮助开发人员进行变量命名的辅助工具
+
+- project: git 提交流程辅助工具
+  role: 项目负责人
+  duration: 2019 &mdash; 至今
+  url: https://github.com/carlos-wong/conventional-changelog-fuzzy
+  description: 用于团队内部协作的 git commit log 辅助工具。
+
 - project: 乐聚 Blockly 桌面教育版软件
   role: 项目软件部分负责人
   duration: 2018 &mdash; 至今
@@ -88,5 +106,34 @@
   # url: "#"
   description: 基于君正 Jz4755 及 Jz4740 的手持多媒体娱乐设备。可以播放视频，电子书，以及运行多个经典模拟器
 
+- project: Jz4755 核心驱动维护及内核开发
+  role: 高级工程师
+  duration: 2008 &mdash; 2010
 
+- project: Jz4750 核心驱动维护及内核开发
+  role: 高级工程师
+  duration: 2008 &mdash; 2010
+
+- project: Jz4745 核心驱动维护及内核开发
+  role: 高级工程师
+  duration: 2008 &mdash; 2010
+
+- project: Jz4740 核心驱动维护及内核开发
+  role: 高级工程师
+  duration: 2008 &mdash; 2010
+
+- project: 基于多频率控制的水质净化器
+  role: 工程师
+  duration: 2007 &mdash; 2008
+  description: 通过调制产生多个频率的微波对饮用水进行净化
+
+- project: 产线工单安排及实时运作监控系统
+  role: 工程师
+  duration: 2007 &mdash; 2008
+  description: 使用 Can 总线及分布式通信协议实现的一套分布式产线订单下发及生产机器人实时状态监控系统
+
+- project: 家用空气压缩机
+  role: 工程师
+  duration: 2007 &mdash; 2008
+  description: 通过定时算法对食品密封袋进行空气压缩及密封。
 
